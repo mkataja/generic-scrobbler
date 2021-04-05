@@ -1,0 +1,4 @@
+API_KEY = 'last.fm api key'
+API_SECRET = 'last.fm api secret'
+USERNAME = 'last.fm username'
+SESSION_KEY = ''
